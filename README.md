@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## My name is Tales R jardim
 ## I'm a Bachelor in Information Systems
 ## Looking for beautiful codes and solutions
