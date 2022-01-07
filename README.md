@@ -1,6 +1,6 @@
 # Hi there 👋
 ## My name is Tales R jardim
-## I'm a Bachelor in Information Systems
+## I'm a Bachelor of Information Systems
 ## Looking for beautiful codes and solutions
 ## I would like to impruve this ecosystem.
 
