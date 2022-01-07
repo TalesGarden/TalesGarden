@@ -4,8 +4,8 @@
 ## Looking for beautiful codes and solutions
 ## I would like to impruve this ecosystem.
 
-- 🌱 I’m currently learning .net and laravel
-- 💬 Ask me about C or C++
+- 📘 I’m currently learning .net and laravel
+- 🙋 Ask me about C or C++
 - 📫 How to reach me: talesjardim@gmail.com
 - 😄 Pronouns: Wazaaaaa
-- ⚡ Fun fact: We never know enough
+- 🔥 Fun fact: We never know enough
