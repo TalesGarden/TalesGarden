@@ -9,4 +9,3 @@
 - 📫 How to reach me: talesjardim@gmail.com
 - 😄 Pronouns: Wazaaaaa
 - ⚡ Fun fact: We never know enough
-- gato-acrobata
