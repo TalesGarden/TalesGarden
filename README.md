@@ -1,6 +1,6 @@
 ### Hi there 👋
 my name is Tales R jardim
-i'm a Bachelor in Information Systems
+I'm a Bachelor in Information Systems
 Looking for beautiful codes e solutions, and help to impruve this ecosystem
 
 - 🌱 I’m currently learning .net and laravel
