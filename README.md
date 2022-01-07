@@ -1,5 +1,5 @@
 ### Hi there 👋
-my name is Tales R jardim
+My name is Tales R jardim
 I'm a Bachelor in Information Systems
 Looking for beautiful codes e solutions, and help to impruve this ecosystem
 
