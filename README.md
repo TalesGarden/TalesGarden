@@ -7,5 +7,5 @@
 - 📘 I’m currently learning .net and laravel
 - 🙋 Ask me about C or C++
 - 📫 How to reach me: talesjardim@gmail.com
-- 😄 Pronouns: Wazaaaaa
+- 😄 Pronouns: Ele/dele
 - 🔥 Fun fact: We never know enough
