@@ -8,7 +8,7 @@
 - 📘 I’m currently learning .net and laravel
 - 🙋 Ask me about C or C++
 - 📫 How to reach me: talesjardim@gmail.com
-- 😄 Pronouns: Ele
+- 😄 Pronouns: He/Him
 - 🔥 Fun fact: We never know enough
 
 
