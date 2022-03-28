@@ -4,7 +4,8 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+Repo+Dev+community!;I'm+a+bachelor+in+Information+Systems;and+a+collaborative+programmer" /></a>
 </p>
 
-
+- 🌱 I’m currently learning Backend Dev.
+- 💞️ I’m looking to collaborate on a Company
 - 📘 I’m currently learning .net and laravel
 - 🙋 Ask me about C or C++
 - 📫 How to reach me: talesjardim@gmail.com
