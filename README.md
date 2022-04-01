@@ -5,7 +5,7 @@
 </p>
 
 - 📘 I’m currently learning Backend Dev.
-- 💞️ I’m looking to collaborate on a Company
+- 💞️ I look for companies where I can collaborate with my knowledge
 - 🙋 Ask me about C or C++
 - 📫 How to reach me: talesjardim@gmail.com
 - 😄 Pronouns: He/Him
