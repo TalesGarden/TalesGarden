@@ -9,7 +9,7 @@
 - 🙋 Ask me about C or C++
 - 📫 How to reach me: talesjardim@gmail.com
 - 😄 Pronouns: He/Him
-- 🔥 Fun fact: We never know enough
+- 🔥 Fun fact: Don't be ashamed to fart while you urinate...There is no rain without thunder
 
 
 
