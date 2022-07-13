@@ -7,7 +7,7 @@
 - 📘 I’m currently learning Backend Dev.
 - 💞️ I look for companies where I can collaborate with my knowledge
 - 🙋 Ask me about C or C++
-- 📫 How to reach me: talesjardim@gmail.com
+- 📫 How to reach me: talesjardim@gmail.com | 33-99848-4725
 - 😄 Pronouns: He/Him
 - 🔥 Fun fact: Don't be ashamed to fart while you urinate...There is no rain without thunder
 
