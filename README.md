@@ -4,8 +4,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+Repo+Dev+community!;I'm+a+bachelor+in+Information+Systems;and+a+collaborative+programmer" /></a>
 </p>
 
-- 📘 I’m currently learning Backend Dev.
-- 💞️ I look for companies where I can collaborate with my knowledge
+- 📘 I’m currently learning and working with Back-end Dev in Java.
 - 🙋 Ask me about C or C++
 - 📫 How to reach me: https://www.linkedin.com/in/tales-rodrigues-jardim-10893a113/
 - 😄 Pronouns: He/Him
