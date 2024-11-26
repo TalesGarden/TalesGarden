@@ -6,7 +6,7 @@
 
 - 📘 I’m currently learning and working with Back-end Dev in Java.
 - 🙋 Ask me about C or C++
-- 📫 How to reach me: [https://www.linkedin.com/in/tales-rodrigues-jardim-10893a113/](https://www.linkedin.com/in/talesjardim/)
+- 📫 How to reach me: https://www.linkedin.com/in/talesjardim/
 - 😄 Pronouns: He/Him
 - 🔥 Fun fact: Don't be ashamed to fart while you urinate...There is no rain without thunder
 
